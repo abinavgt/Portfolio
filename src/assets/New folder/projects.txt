@@ -1,0 +1,36 @@
+Projects:
+
+1. Spectrum Lens(Chrome Extension)
+Spectrum Lens is a lightweight, high-performance Chrome extension designed for designers and developers to capture hex codes instantly from any webpage. Built using JavaScript and the EyeDropper API, it allows users to pick colors with a single click, automatically saving them to a persistent history via Local Storage. The extension features a clean, responsive interface with one-click clipboard copying, a clear-all history function, and a 3-column grid layout for organized color management
+Tech Stacks: JavaScript, HTML, CSS, Loaded Packages
+Github link: https://github.com/abinavgt/SpectrumLens
+
+2. Advanced Computer Vision(ML/AI)
+Advanced Computer Vision is an interactive repository featuring high-performance AI applications built with OpenCV and MediaPipe. It enables real-time gesture-controlled gaming (Snake, Fruit Ninja) and sophisticated human analysis modules, including face mesh tracking and pose estimation
+Tech Stacks: Python, OpenCv, MediaPipe, PyGame
+Github link: https://github.com/abinavgt/Advanced-Computer-Vision
+
+3. ATM Simulator(Full-Stack)
+ATM Simulator is a robust banking application designed to replicate real-world ATM operations with algorithmic precision. Built with Python and Flask, it features a sophisticated engine that calculates real-time multi-currency denomination breakdowns (INR, USD, EUR, etc.). The platform provides a secure environment for PIN-based authentication, balance inquiries, and instant mini-statement generation, delivering a seamless and responsive financial experience
+Tech Stacks: Python, JavaScript, Flask, MySQL, HTML, CSS
+Github link: https://github.com/abinavgt/ATM-Simulator
+
+4. Heart Stroke Prediction (ML)
+Heart Stroke Predictor is a health-tech application that utilizes machine learning to assess the probability of a stroke based on clinical parameters. The interface is designed for real-time interaction, bridging the gap between complex medical data analysis and accessible health monitoring for everyday users
+Tech Stacks: Python, TensorFlow, scikit-learn, joblib, Streamlit
+Github link: https://github.com/abinavgt/Heart-Failure-Prediction
+
+5. Spotify Dashboard(Data Science)
+Spotify Data Dashboard is an interactive data visualization project designed to analyze personal music streaming habits and global track trends. Developed using Power BI, the dashboard transforms raw JSON and CSV data into actionable insights, featuring high-level metrics for total play counts, artist diversity, and genre distribution
+Tech Stacks: Power BI, Figma
+Github link: https://github.com/abinavgt/PowerBi-Dashboard
+
+6. Tesla Visualization(Data Science)
+Tesla Sales Performance Dashboard is a high-level business intelligence project designed to analyze global electric vehicle (EV) sales data and market penetration. The dashboard features sophisticated visualizations for revenue trends, regional performance, and model-specific growth metrics
+Tech Stacks: Python, Power BI, Figma
+Github link: https://github.com/abinavgt/Python-project
+
+7. Trend Talk Advisor(Full-Stack)
+Trend Talk Advisor is a personalized AI fashion stylist designed to provide expert outfit recommendations for various functions and events. Built with an intuitive web interface, the platform leverages AI to assist users with color coordination, trend analysis, and occasion-specific styling. It provides a seamless digital assistant experience, ensuring users stay on-trend by delivering tailored fashion insights and outfit ideas directly to their dashboard
+Tech Stacks: TypeScript, React, CSS, HTML
+Github link: https://github.com/abinavgt/trend-talk-outfit-advisor

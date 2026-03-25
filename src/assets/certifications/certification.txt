@@ -1,0 +1,34 @@
+1. Python 
+Key Content: Skill certification test covering Python syntax, data types, and basic algorithmic logic.
+Issuing Organization: HackerRank
+Year of Certification: 2026
+
+2. CodeQuest: DSA Summer Bootcamp
+Key Content: Intensive skill development course on Data Structures and Algorithms (DSA) "From Basics to Brilliance."
+Issuing Organization: Lovely Professional University (LPU)
+Year of Certification: 2025
+
+3. Data Science and Analytics
+Key Content: Winter internship program focused on data analysis, statistical methods, and data science workflows.
+Issuing Organization: Vital Skills (in association with Techkriti, IIT Kanpur)
+Year of Certification: 2025
+
+4. Privacy and Security in Online Social Media
+Key Content: A 12-week academic course covering security vulnerabilities, data privacy, and trust in social media platforms.
+Issuing Organization: NPTEL / SWAYAM (IIT Madras)
+Year of Certification: 2025
+
+5. Java Application Development
+Key Content: Practical internship experience involving the completion of live projects using Java.
+Issuing Organization: Internz Learn
+Year of Certification: 2024
+
+6. Mastering in C: Basic to Beyond
+Key Content: A 25-hour live course focused on C programming fundamentals, advanced concepts, and project-based learning.
+Issuing Organization: CSE Pathshala
+Year of Certification: 2024
+
+7. Legacy Responsive Web Design V8
+Key Content: Approximately 300 hours of coursework covering HTML5, CSS3, Flexbox, CSS Grid, and responsive design principles.
+Issuing Organization: freeCodeCamp
+Year of Certification: 2023
